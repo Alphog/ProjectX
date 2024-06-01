@@ -52,7 +52,7 @@ button {
 }
 button:active {
     background-color:yellow;
-    
+
 }
 .image1 {
     margin-top:50px;
@@ -101,5 +101,5 @@ img {
     margin-left:5px;
 }
 .rest {
-    display:block;
+    display:none;
 }
