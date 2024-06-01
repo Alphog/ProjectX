@@ -50,6 +50,10 @@ button {
     border-radius:50%;
     background-color:rgb(250, 215, 16);
 }
+button:active {
+    background-color:yellow;
+    
+}
 .image1 {
     margin-top:50px;
     width:100px;
@@ -97,5 +101,5 @@ img {
     margin-left:5px;
 }
 .rest {
-    display:none;
+    display:block;
 }
